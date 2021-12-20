@@ -1,7 +1,7 @@
 # Cell_tracking
 
 **This repository allows you to view the execution process of the project in the form of an ipynb file and easily see the results.
-For more detailed code information, go to the krec7748/yolov4-deepsort repository.**  
+For more detailed code information, go to the https://github.com/krec7748/yolov4-deepsort.**  
 
 https://user-images.githubusercontent.com/86844420/146831136-294245ff-3dda-46d9-905a-c697e5c24d6e.mp4
 
