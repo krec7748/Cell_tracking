@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/86844420/146831136-294245ff-3dda-46d9-
 
 
 ### 2. Resizing & Labeling image
-* img_resize.py (Local)  
+* img_resize.py, rename_txt.py (Local)  
 * labelImg.py  
    * Reference: https://github.com/tzutalin/labelImg  
     
