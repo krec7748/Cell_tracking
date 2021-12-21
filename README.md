@@ -3,7 +3,7 @@
 **This repository allows you to view the execution process of the project in the form of an ipynb file and easily see the results.  
 For more detailed code information, go to the https://github.com/krec7748/yolov4-deepsort.**  
 
-https://user-images.githubusercontent.com/86844420/146837611-1d8870b5-63e5-4543-bf56-80d2ba0a2782.mp4
+![tracking_result_02](https://user-images.githubusercontent.com/86844420/146902101-7ed9906e-35e4-4423-adad-5f1d2cf9682b.gif)
 
 ## Process
 ### 1. Dataset Download
